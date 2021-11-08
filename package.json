@@ -1,0 +1,19 @@
+{
+  "name": "@sampoder/ib.js",
+  "version": "1.0.1",
+  "description": "IB CS Data Structures in JS for experimenting!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sampoder/ib.js.git"
+  },
+  "author": "@sampoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sampoder/ib.js/issues"
+  },
+  "homepage": "https://github.com/sampoder/ib.js#readme"
+}
