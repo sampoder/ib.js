@@ -4,7 +4,7 @@ This JS library implements the data structures outlined in the [IB Computer Scie
 
 ## Installation
 
-The package is available as `@sampoder/ib.js` on NPM which after installation can be used like:
+The package is available as `@sampoder/ib.js` on [NPM](https://www.npmjs.com/package/@sampoder/ib.js) which after installation can be used like:
 
 ```js
 const { Stack, Collection, Queue } = require('@sampoder/ib.js')
